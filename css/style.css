@@ -50,6 +50,24 @@
     margin: 8px;
 }
 
+.resume{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        border-top: 4px solid black;
+        border-bottom: 4px solid black;
+        background-color: #FFBA30;
+        font-size: 16pt;
+        font-weight: 400;
+        line-height: 20pt;
+        font-family: 'Montserrat', sans-serif;
+        margin: 8px;
+    }
+    
 .heroImg{
     max-width: 100%;
     height: auto;
